@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shx996/react-native-tiny-toast.git"
+    "url": "git+https://github.com/ricardocarrola/react-native-tiny-toast.git"
   },
   "keywords": [
     "react-native",
@@ -23,10 +23,11 @@
   "author": "shx996",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shx996/react-native-tiny-toast/issues"
+    "url": "https://github.com/ricardocarrola/react-native-tiny-toast/issues"
   },
-  "homepage": "https://github.com/shx996/react-native-tiny-toast#readme",
+  "homepage": "https://github.com/ricardocarrola/react-native-tiny-toast#readme",
   "dependencies": {
+    "deprecated-react-native-prop-types": "^4.0.0",
     "prop-types": "latest",
     "react-native-iphone-x-helper": "1.2.1",
     "react-native-root-siblings": "3.2.3"
